@@ -26,5 +26,3 @@ Current model accuracy: 0.979 (97.9%)
 ### 4. Prediction
 The script includes a section for testing the model on completely new data inputs. Results are organized into a final dataframe for side-by-side comparison of hours and predicted grades.
 
-## Future Development
-The next phase of this project involves expanding the feature set to include multiple variables such as sleep hours and attendance to implement Multiple Linear Regression.
